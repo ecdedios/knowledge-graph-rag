@@ -1,4 +1,4 @@
-# RAG powered by a Knowledge Graph
+# RAG powered by a knowledge graph
 > A beginner’s tutorial for automated knowledge graph construction and RAG implementation using OpenAI's ChatGPT and Neo4j.
 
 
