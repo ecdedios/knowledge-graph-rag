@@ -1,12 +1,14 @@
 # RAG powered by a knowledge graph
+
 > A beginner’s tutorial for automated knowledge graph construction and RAG implementation using OpenAI's ChatGPT and Neo4j.
 
+[Make sense of unstructured data (Data Science Nerd)](https://medium.com/data-science-nerd/make-sense-of-unstructured-data-63f386bd5182)
 
 ## Meta
 
 Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See `LICENSE` for more information.
 
 - LinkedIn: [in/ecdedios/](https://www.linkedin.com/in/ecdedios/)
 - Resumé: [http://ednalyn.com](http://ednalyn.com)
