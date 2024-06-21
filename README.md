@@ -4,6 +4,19 @@
 
 [Make sense of unstructured data (Data Science Nerd)](https://medium.com/data-science-nerd/make-sense-of-unstructured-data-63f386bd5182)
 
+## Usage
+
+Written in Python 3.12. Some technologies used:
+
+- OpenAI
+- Langchain
+- Neo4j
+- NetworkX
+- Selenium
+- Beautiful Soup
+
+To see the project in action, open and run the notebooks.
+
 ## Meta
 
 Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)
